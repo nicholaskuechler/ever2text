@@ -8,9 +8,9 @@ setup(
     description=(
         "Convert Evernote exports to text files"),
     long_description=(
-        open("README.md").read() +
+        open("README.rst").read() +
         '\n\n' +
-        open("HISTORY.md").read()
+        open("HISTORY.rst").read()
     ),
     # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[],
