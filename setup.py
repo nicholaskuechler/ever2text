@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '0.2'
+version = '0.3'
 
 setup(
     name='ever2text',
@@ -27,6 +27,7 @@ setup(
         'python-dateutil<2.0',
         'html2text',
         'beautifulsoup4',
+        'future',
     ],
     entry_points="""
     [console_scripts]
