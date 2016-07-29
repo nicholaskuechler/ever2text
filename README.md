@@ -13,14 +13,14 @@ look at [ever2simple](https://github.com/claytron/ever2simple).
 Installation
 ------------
 
-Install using ``pip`` (preferably in a virtualenv)::
+Install using ``pip`` (preferably in a virtualenv):
 
     $ pip install -U ever2text
 
 Development Installation
 ------------------------
 
-Clone this repository with ``git``::
+Clone this repository with ``git``:
 
     $ git clone https://github.com/nicholaskuechler/ever2text.git
     $ cd ever2text
@@ -40,7 +40,7 @@ basis for the exported enex dump file.
 
 Once you have created an export file, you can run the script on the file
 setting the ``--output`` to a directory and using ``dir`` as the parameter
-to ``--format``::
+to ``--format``:
 
     $ ever2text my_notebook.enex --output output_directory --format text
 
