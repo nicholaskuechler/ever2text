@@ -22,6 +22,7 @@ Development Installation
 
 Clone this repository with ``git``:
 
+::
     $ git clone https://github.com/nicholaskuechler/ever2text.git
     $ cd ever2text
     $ python setup.py install
