@@ -7,7 +7,7 @@ The goal is to export Evernote notes to raw text files for use with any
 text editor, such as `Atom <https://atom.io/>`_ or
 `Sublime Text <https://www.sublimetext.com/>`_.
 
-GitHub: `ever2text <https://github.com/nicholaskuechler/ever2text>`_
+GitHub for ever2text: `https://github.com/nicholaskuechler/ever2text <https://github.com/nicholaskuechler/ever2text>`_
 
 If you are looking to export Evernote notes for use with SimpleNote, have a
 look at `ever2simple <https://github.com/claytron/ever2simple>`_.
