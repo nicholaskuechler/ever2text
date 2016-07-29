@@ -15,6 +15,8 @@ Installation
 
 Install using ``pip`` (preferably in a virtualenv):
 
+::
+
     $ pip install -U ever2text
 
 Development Installation
@@ -43,10 +45,14 @@ basis for the exported enex dump file.
 Once you have created an export file, you can run the script on the file
 setting the ``--output`` to a directory:
 
+::
+
     $ ever2text my_notebook.enex --output output_directory --format text
 
 You can export notes to either plain text or markdown format. The default is
 plain text. For markdown formatted notes, use ``--format markdown``.
+
+::
 
     $ ever2text my_notebook.enex --output output_directory --format markdown
 
