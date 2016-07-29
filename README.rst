@@ -4,11 +4,11 @@ ever2text
 Convert Evernote exports to plain text files.
 
 The goal is to export Evernote notes to raw text files for use with any
-text editor, such as [Atom](https://atom.io/) or
-[Sublime Text](https://www.sublimetext.com/).
+text editor, such as `Atom <https://atom.io/>`_ or
+`Sublime Text <https://www.sublimetext.com/>`_.
 
 If you are looking to export Evernote notes for use with SimpleNote, have a
-look at [ever2simple](https://github.com/claytron/ever2simple).
+look at `ever2simple <https://github.com/claytron/ever2simple>`_.
 
 Installation
 ------------
